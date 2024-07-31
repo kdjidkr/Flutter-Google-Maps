@@ -143,7 +143,7 @@ class HomeScreen extends StatelessWidget {
                             letterSpacing: 1.0,
                           ),),
 
-                        ),
+                        ),// E
                       ],
                     ),
                   ),
